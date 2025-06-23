@@ -163,7 +163,7 @@ The analysis generates 20+ comprehensive visualizations:
 ## 📁 Project Structure
 
 ```
-titanic-eda/
+celebal-3-titanic_visualization/
 │
 ├── titanic_eda.ipynb          # Main analysis script
 ├── README.md               # Project documentation
@@ -173,8 +173,6 @@ titanic-eda/
 │   ├── survival_overview.png
 │   ├── demographic_analysis.png
 │   ├── statistical_analysis.png
-│   ├── advanced_survival.png
-│   └── summary_dashboard.png
 
 ```
 
